@@ -1,0 +1,17 @@
+$fontColor: 'red';
+$bgColor: '#333';
+$fontFamily: 'Roboto';
+$jumbotronBG: 'lightgreen';
+
+h1 {
+    color: $fontColor;
+}
+
+body {
+    background-color: $bgColor;
+    font-family: $fontFamily;
+}
+
+.jumbotron {
+    background-color: $jumbotronBG;
+}
